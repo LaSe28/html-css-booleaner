@@ -1,0 +1,34 @@
+.banner{
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    height: 150px;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+
+.sottotitolo {
+    color: lightslategrey;
+}
+
+.sottotitolo2 {
+    color: lightslategrey;
+    font-size: 12px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+h1{
+    margin: 0;
+}
+
+.titolo{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
