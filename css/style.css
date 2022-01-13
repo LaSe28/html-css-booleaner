@@ -32,3 +32,34 @@ h1{
     margin-bottom: 15px;
 }
 
+section {
+    margin-bottom: 15px;
+}
+
+.descrizione{
+    font-size: 10px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+th{
+    text-align: left;
+    color: white;
+    background-color: lightskyblue;
+    width: 400px;
+    height: 30px;
+}
+
+.sfondo-azzurro{
+    background-color: lightblue;
+}
