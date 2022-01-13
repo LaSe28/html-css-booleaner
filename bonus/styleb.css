@@ -6,6 +6,7 @@
 
 body{
     margin: 0;
+    box-sizing: border-box;
 }
 
 .container{
@@ -84,6 +85,7 @@ th{
     width: 300px;
     height: 200px;
     margin-top: 10px;
+    padding: 6px;
 }
 
 .consiglio-2{
@@ -91,5 +93,6 @@ th{
     color: white;
     width: 300px;
     height: 200px;
-    margin-top: 10px;    
+    margin-top: 10px;
+    padding: 6px;    
 }
