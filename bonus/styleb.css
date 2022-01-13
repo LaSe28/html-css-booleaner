@@ -1,0 +1,95 @@
+.banner{
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    height: 150px;
+}
+
+body{
+    margin: 0;
+}
+
+.container{
+    width: 80vw;
+    margin: auto;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 90px;
+    margin-left: 9vw;
+}
+
+.sottotitolo {
+    color: lightslategrey;
+}
+
+.sottotitolo2 {
+    color: lightslategrey;
+    font-size: 12px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+h1{
+    margin: 0;
+}
+
+.titolo{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+section {
+    margin-bottom: 15px;
+}
+
+.descrizione{
+    font-size: 10px;
+}
+
+.evidenziato{
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-spacing: 0;
+}
+
+th{
+    text-align: left;
+    color: white;
+    background-color: lightskyblue;
+    width: 400px;
+    height: 30px;
+}
+
+.sfondo-azzurro{
+    background-color: lightblue;
+}
+
+.consigliati{
+    color: lightslategrey;
+    margin-top: 35px;
+}
+
+.consiglio-1{
+    background-image: url(../img/monitor.jpg);
+    color: white;
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.consiglio-2{
+    background-image: url(../img/graph.jpg);
+    color: white;
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;    
+}
